@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Streaming</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="top">Mobion</string>
+    <string name="head1">Attended Conference Details</string>
+    <string name="head2">Organised Conference Details</string>
+    <string name="title_activity_confrence">ConfrenceActivity</string>
+    <string name="menu">Menus</string>
+   <string name="header">Streaming</string>
+   <string name="Heading">Mobile TV</string>
+   <string name="textTabTitle1">TV Channels</string>
+     <string name="textTabTitle2">Radio Channels</string>
+    
+</resources>
